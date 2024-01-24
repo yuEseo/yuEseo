@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4282f4,100:f3e5f4&height=260&section=header&text=Welcome%20to%20I%20Seo's%20GitHub😊&fontSize=40&fontColor=ffffff&fontAlign=65" />
 </div>
 <div>
-<h2>🤞 Nice way to meet me</h2>
 <h3>👋Hi there!</h3>
 <p>I'm ISeo Yu, a <b>Front-End Junior Developer 👩‍💻</b>. I started studying development in 2022 and have been working as a front-end junior developer since 2023. Currently, I'm <b>focusing on studying React & JavaScript</b> for the front-end.<br/>  
 My goal is to first <b>understand users</b> and then effectively utilize technology to facilitate communication with them.</b>
