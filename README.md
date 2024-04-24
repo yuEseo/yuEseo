@@ -36,7 +36,7 @@ Chosun University Majored in Biomedical Science (2014.03 - 2018.02)
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <br/>
 
-<h3>Sparrow Enterprise GUI Client - Developer (2022.12 ~ 2023.12)</h3>
+<h3>Sparrow Enterprise GUI Client - Developer (2022.12 ~ 2024.1)</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/electron-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" />
