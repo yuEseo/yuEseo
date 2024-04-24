@@ -62,8 +62,8 @@ Chosun University Majored in Biomedical Science (2014.03 - 2018.02)
 </a>
 <br />
 
-<!-- <h4>✨My Github Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=yuiseo&show_icons=true&theme=tokyonight"/> -->
+<h4>✨My Github Stats</h4>
+<img src="https://github-readme-stats.vercel.app/api?username=yuEseo&show_icons=true&theme=tokyonight"/>
 <br />
 </div>
 <div align="center">
