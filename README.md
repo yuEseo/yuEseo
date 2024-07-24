@@ -26,36 +26,38 @@ Chosun University Majored in Biomedical Science (2014.03 - 2018.02)
 
 <h2>👩‍💻Works & Skills💻</h2>
 <h3>Sparrow Cloud - FrontEnd Developer (2024.01 ~ )</h3>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Query-%23E33332.svg?style=for-the-badge&logo=react-query&logoColor=white"/>
-<img src="https://img.shields.io/badge/jotai-000000?style=for-the-badge&logo=jotai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Query-%23E33332.svg?style=flat-square&logo=react-query&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jotai-000000?style=flat-square&ogo=jotai&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 
 <h3>Sparrow Enterprise GUI Client - Developer (2022.12 ~ 2024.1)</h3>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/electron-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/electron-47848F?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/testing%20library-%23E33332.svg?&style=for-the-badge&logo=testing%20library&logoColor=white" />
-<img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/testing%20library-%23E33332.svg?&style=flat-square&logo=testing%20library&logoColor=white" />
+<img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 
+
 <h4>ETC.</h4>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 
 
