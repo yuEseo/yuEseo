@@ -38,7 +38,7 @@ Chosun University Majored in Biomedical Science (2014.03 - 2018.02)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
-
+  
 <h3>Sparrow Enterprise GUI Client - Developer (2022.12 ~ 2024.1)</h3> 
 - bitbucket <br/>
 - Released approximately every 2weeks. <br/>
