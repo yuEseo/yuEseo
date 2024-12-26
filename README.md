@@ -27,7 +27,7 @@ Chosun University Majored in Biomedical Science (2014.03 - 2018.02)
 <h2>👩‍💻Works & Skills💻</h2>
 <h3>Sparrow Cloud - FrontEnd Developer (2024.02 ~ )</h3> 
 - github project <br/>
-- Released approximately every month. <br/>
+- Released approximately every 2months. <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
